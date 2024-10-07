@@ -1,0 +1,11 @@
+{"name": "ram", 
+"age": 20, 
+"is_student": true, 
+"phone": null, 
+"course": ["python", "django", "drf"], 
+"address": 
+{
+    "city": "Bhaktapur", 
+    "country": "Nepal"
+}
+}
